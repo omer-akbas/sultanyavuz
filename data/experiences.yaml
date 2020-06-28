@@ -1,13 +1,13 @@
 # Your experiences
 experiences:
-  - designation: Yunuslar
+  - designation: Yunuslar Köyü
     company:
       name: Kına Gecesi
-      url: "https://www.example.com"
-      location: Yunuslar Köyü
+      url: "https://omer-akbas.github.io/sultanyavuz/"
+      location: Yunuslar Köyü / Gediz - Kütahya
       # company overview
       overview: Bayanlara özeldir. Kız tarafının köyünde eğlenilecek.
-    start: 5 Ağustos 2020
+    start: 8 Ağustos 2020
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
@@ -16,13 +16,13 @@ experiences:
       - Maske takmak mecburidir.
       - Sosyal mesafeye dikkat edilmesi gerekmektedir.
 
-  - designation: Yeşilçay
+  - designation: Yeşilçay Köyü
     company:
       name: Düğün
-      url: "https://www.preexample.com"
-      location: Yeşilçay Köyü
+      url: "https://omer-akbas.github.io/sultanyavuz/"
+      location: Yeşilçay Köyü / Gediz - Kütahya
       overview: Herkes katılabilir.
-    start: 6 Ağustos 2020
+    start: 9 Ağustos 2020
     # end: May 2017
     responsibilities:
       - Herkes katılabilir.
@@ -33,10 +33,10 @@ experiences:
   - designation: İzmir
     company:
       name: Özel Eğlence
-      url: "https://www.intern.com"
-      location: Akbaş Malikanesi 
+      url: "https://omer-akbas.github.io/sultanyavuz/"
+      location: Akbaş Malikanesi / Bornova - İzmir
       overview: Özel kutlama.
-    start: Jun 2015
+    start: 11 Ağustos 2020
     # end: Jan 2016
     responsibilities:
       - Ne yazıkki, üzülerek herkesi alamıyoruz.
