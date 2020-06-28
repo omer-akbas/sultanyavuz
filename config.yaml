@@ -1,4 +1,4 @@
-baseURL: /sultanyavuz
+baseURL: https://omer-akbas.github.io/sultanyavuz
 languageCode: tr-tr
 title: "Sultan & Yavuz"
 theme: "toha"
@@ -11,10 +11,10 @@ markup:
       unsafe: true
 
 # Enable Google Analytics
-googleAnalytics: UA-xxxxxxxx
+# googleAnalytics: UA-xxxxxxxx
 
 # Enable Disqus forum
-disqusShortname: does-not-exist
+# disqusShortname: does-not-exist
 
 # Enable global emoji support
 enableEmoji: true
