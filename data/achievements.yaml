@@ -1,0 +1,14 @@
+# Your achievements achievements
+achievements:
+  - title: Deniz havası
+    image: images/achievements/bir.jpeg
+    summary: Deniz havası.
+  - title: Davet
+    image: images/achievements/iki.jpeg
+    summary: Davet.
+  - title: Başka bir davetten
+    image: images/achievements/bes.jpeg
+    summary: Başka bir davetten.
+  - title: Sunum
+    image: images/achievements/dort.jpeg
+    summary: Sunum.

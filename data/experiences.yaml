@@ -1,0 +1,44 @@
+# Your experiences
+experiences:
+  - designation: Yunuslar
+    company:
+      name: Kına Gecesi
+      url: "https://www.example.com"
+      location: Yunuslar Köyü
+      # company overview
+      overview: Bayanlara özeldir. Kız tarafının köyünde eğlenilecek.
+    start: 5 Ağustos 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+      - Bayanlara özeldir.
+      - Maske takmak mecburidir.
+      - Sosyal mesafeye dikkat edilmesi gerekmektedir.
+
+  - designation: Yeşilçay
+    company:
+      name: Düğün
+      url: "https://www.preexample.com"
+      location: Yeşilçay Köyü
+      overview: Herkes katılabilir.
+    start: 6 Ağustos 2020
+    # end: May 2017
+    responsibilities:
+      - Herkes katılabilir.
+      - Maske takmak mecburidir.
+      - Sosyal mesafeye dikkat edilmesi gerekmektedir.
+      - Devlet kararı ile yemek verilemeyecektir :(.
+
+  - designation: İzmir
+    company:
+      name: Özel Eğlence
+      url: "https://www.intern.com"
+      location: Akbaş Malikanesi 
+      overview: Özel kutlama.
+    start: Jun 2015
+    # end: Jan 2016
+    responsibilities:
+      - Ne yazıkki, üzülerek herkesi alamıyoruz.
+      - Önceden rezervasyon yaptırabilmemiz için aramanız gerekmektedir.
+      - Yemek ve içecek sınırsızdır.

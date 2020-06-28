@@ -1,0 +1,42 @@
+# background image of the landing page
+# background: "images/background.jpg"
+background: "images/bes.jpeg"
+
+# some information about you
+author:
+  name: "Sultan & Yavuz"
+  # image: "images/avatar.png"
+  image: "images/biz.jpeg"
+  # give your some contact information. they will be used in the footer
+  contactInfo:
+    email: "izmirlieleman@gmail.com"
+    phone: "+0123456789"
+  # a summary of what you do
+  summary:
+  - Biz Evleniyoruz.
+  - Çok Mutluyuz.
+  - Sizlerle de Mutluluğumuzu Paylaşmak İstiyoruz.
+
+# Menus of the home page
+menus:
+- name: Anasayfa
+  url: "#home"
+  weight: 1
+- name: Hakkımızda
+  url: "#about"
+  weight: 2
+- name: Kişisel
+  url: "#skills"
+  weight: 3
+- name: Organizasyon
+  url: "#experiences"
+  weight: 4
+# - name: Projects
+#   url: "#projects"
+#   weight: 5
+- name: Düğün Resimleri
+  url: "#recent-posts"
+  weight: 6
+- name: Arşiv
+  url: "#achievements"
+  weight: 7

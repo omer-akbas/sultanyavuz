@@ -1,0 +1,56 @@
+# your designation
+designation: Düğünümüzün ilanı
+# your company information
+# company:
+  # name: Example Co.
+  # url: "https://www.example.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'Merhaba biz evleniyoruz, çünkü yandaki halkaları tamamlamaya karar verdik ;) Bu güzel günümüzde sizleri de aramızda görmek istiyoruz.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "example@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/example"
+
+- name: Stackoverflow
+  icon: "fab fa-stack-overflow"
+  url: "#"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "#"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "#"
+
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "#"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported color: blue, yellow, pink, green
+softSkills:
+- name: Aşk
+  percentage: 90
+  color: pink
+- name: Sevgi
+  percentage: 85
+  color: yellow
+- name: Saygı
+  percentage: 80
+  color: blue
+- name: Anlayış
+  percentage: 85
+  color: green

@@ -1,0 +1,25 @@
+baseURL: https://omer-akbas.github.io
+languageCode: tr-tr
+title: "Sultan & Yavuz"
+theme: "toha"
+publishDir: "docs"
+
+# Allow raw html in markdown file
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+# Enable Google Analytics
+googleAnalytics: UA-xxxxxxxx
+
+# Enable Disqus forum
+disqusShortname: does-not-exist
+
+# Enable global emoji support
+enableEmoji: true
+
+# Custom parameters
+params:
+  # Github Repo URL. This is used to add "Improve This Page" button
+  gitRepo: https://github.com/omer-akbas/sultanyavuz/
